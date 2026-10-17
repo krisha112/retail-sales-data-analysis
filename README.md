@@ -30,4 +30,10 @@ Data cleaning and inspection, grouping and aggregation, exploratory data analysi
 3. Run the cells from top to bottom.
 
 ## Dataset
-Add the original dataset source and its licence here before publishing or redistributing the data.
+
+- **Source:** [Retail Sales Dataset on Kaggle](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
+- **Dataset author:** Mohammad Talib
+- **Usage:** The dataset is used for educational and exploratory data analysis.
+
+The dataset contains retail transactions, including customer demographics, product categories, quantities, prices, and transaction amounts. Please refer to the original Kaggle page for the applicable licence and usage terms.
+
